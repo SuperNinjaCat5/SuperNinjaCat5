@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SuperNinjaCat5
 - 👀 I’m interested in gaming,coding and more!
-- 🌱 I’m currently learning UE5
-- 💞️ I’m not looking to collaborate on anything right now.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python
 
 <!---
 SuperNinjaCat5/SuperNinjaCat5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
