@@ -23,14 +23,20 @@ I'm passionate about coding and gaming, I enjoy learning useless things (3.14159
 
 ## Get in Touch
 
-contact@superninjacat5.us!
+📫 How to reach me: [Email](mailto:contact@superninjacat5.us)
 
 ---
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperNinjaCat5&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperNinjaCat5&layout=compact)
 
 ## Fun Facts
 
 - 98% of people think you should stfu 
 
+![Cool Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 <!---
 SuperNinjaCat5/SuperNinjaCat5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
