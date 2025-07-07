@@ -3,8 +3,8 @@
 - 🐍 Am speak Python and English  
 - 🔥 Proud vibe coder  
 - 🎮 Big fan of video games  
-- 🐱 Unbiasedly believe cats are the best animals  
-- 🎺 but big and long  
+- 🐱 Unbiasedly believes cats are the best animals  
+- Plays 🎺 but big and long  
 
 ---
 
