@@ -30,7 +30,7 @@ I'm passionate about coding and gaming, I enjoy learning useless things (3.14159
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperNinjaCat5&show_icons=true&theme=radical)
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=SuperNinjaCat5&layout=compact](https://github-readme-stats.hackclub.dev/api/wakatime?username=5198&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.hackclub.dev/api/wakatime?username=5198&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
 
 ## Fun Facts
 
