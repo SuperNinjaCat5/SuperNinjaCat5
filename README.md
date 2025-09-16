@@ -1,9 +1,8 @@
 # Hi, I’m @SuperNinjaCat5
 
-- 🐍 Am speak Python and English  
-- 🔥 Proud vibe coder  
-- 🎮 Big fan of video games  
-- 🐱 Unbiasedly believes cats are the best animals  
+- Am speak Python and English  
+- fan of video games  
+- Unbiasedly believes cats are the best animals  
 - Plays 🎺 but big and long  
 
 ---
