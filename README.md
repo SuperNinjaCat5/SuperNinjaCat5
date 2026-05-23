@@ -3,7 +3,7 @@
 - Am speak Python and English  
 - fan of video games  
 - Unbiasedly believes cats are the best animals  
-- Plays 🎺 but big and long  
+- Plays 🎺 but big and long (Trombone)
 
 ---
 
