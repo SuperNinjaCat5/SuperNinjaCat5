@@ -1,22 +1,23 @@
 # Hi, I’m @SuperNinjaCat5
 
-- Am speak Python and English  
-- fan of video games  
-- Unbiasedly believes cats are the best animals  
-- Plays 🎺 but big and long (Trombone)
+- I code in Python, Java, and C++
+- I speak English  
+- I tottally unbiasedly believe cats are the best animals
+- FRC2423
+- I play 🎺 but big and long (Trombone)
 
 ---
 
 ## About Me
 
-I'm passionate about coding and gaming, I enjoy learning useless things (3.141592653589793238462643383279502). Currently focused on Python projects and getting free stuff from hcb lol.
+I'm passionate about math and sciene, I enjoy learning useless things (3.141592653589793238462643383279502). Currently I'm focused on school work, practicing trombone and robotics.
 
 ---
 
 ## What I’m Working On
 
-- Learning more advanced Python concepts  
-- Building small games and tools  
+- Honors physics 😭
+- Music for the KwarQs robot
 
 ---
 
@@ -33,7 +34,7 @@ I'm passionate about coding and gaming, I enjoy learning useless things (3.14159
 
 ## Fun Facts
 
-- 98% of people think you should stfu 
+- 98% of cats can code better than you!
 
 ![Cool Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 <!---
